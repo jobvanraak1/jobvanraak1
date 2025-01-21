@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am a Front-End Developer
+Hi, I am a student
 
 
 # 💻 Tech Stack:
